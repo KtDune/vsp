@@ -1,0 +1,6 @@
+[submodule "vsp-backend"]
+	path = vsp-backend
+	url = https://github.com/KtDune/vsp-backend.git
+[submodule "vsp-frontend"]
+	path = vsp-frontend
+	url = https://github.com/KtDune/vsp-frontend.git
